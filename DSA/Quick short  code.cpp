@@ -40,7 +40,7 @@ void qksort(int arr[],int low,int high)
 
 
 int main(){
-	int arr []={8,2,3,10,5,9};
+	int arr []={7,2,3,10,5,9};
 	int s=sizeof(arr)/sizeof(arr[0]);
 	for(int i=0;i<s;i++){
 		cout<<arr[i]<<"\n";
